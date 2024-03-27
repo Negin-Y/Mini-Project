@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Nespresso OriginalLine Variety Pack Capsules",
+        "description": "Assortment of Nespresso's most popular OriginalLine capsules. Includes various flavors such as Roma, Arpeggio, Livanto, and Ristretto.",
+        "price": 35.99
+    },
+    {
+        "name": "Nespresso VertuoLine Intenso Coffee Capsules",
+        "description": "Intense and full-bodied coffee capsules designed for Nespresso's VertuoLine machines. Offers rich flavor and a smooth finish.",
+        "price": 29.99
+    },
+    {
+        "name": "Nespresso Barista Creations Vanilla Eclair Capsules",
+        "description": "Indulgent vanilla-flavored coffee capsules inspired by the sweet, creamy taste of vanilla eclairs. Compatible with Nespresso OriginalLine machines.",
+        "price": 39.99
+    },
+    {
+        "name": "Nespresso VertuoLine Giornio Coffee Capsules",
+        "description": "Refreshing and aromatic coffee capsules crafted for Nespresso's VertuoLine machines. Perfect for a morning pick-me-up.",
+        "price": 32.99
+    },
+    {
+        "name": "Nespresso OriginalLine Decaffeinato Capsules",
+        "description": "Decaffeinated coffee capsules for Nespresso OriginalLine machines. Delivers the same rich flavor and aroma without the caffeine.",
+        "price": 37.99
+    },
+    {
+        "name": "Nespresso VertuoLine Hazelino Muffin Coffee Capsules",
+        "description": "Decadent hazelnut-flavored coffee capsules with a hint of pastry-inspired sweetness. Compatible with Nespresso VertuoLine machines.",
+        "price": 42.99
+    }
+]
